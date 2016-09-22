@@ -3,6 +3,9 @@ global-css:
     theme:
       css/style.css: {}
 
+bootstrap:
+  bower_components/bootstrap/dist/bootstrap-theme.min.css: {}
+
 global-js:
   js:
     js/script.js: {}
